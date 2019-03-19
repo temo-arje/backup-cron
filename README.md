@@ -21,6 +21,6 @@ Backup Websites Files And Databases Linux
 <br>
 <b>Config Mysql Connection</b>
 
-Mysql Server user and Password And is ready
+Mysql Server user and Password And is ready. The command will be run every hour
 
 <b>Time calculator:</b> https://crontab.guru/
