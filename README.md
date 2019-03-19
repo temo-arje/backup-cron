@@ -18,4 +18,9 @@ Backup Websites Files And Databases Linux
 0 * * * *  sudo ./CronBackup.sh 
 </code> 
 
+<br>
+<b>Config Mysql Connection</b>
+
+Mysql Server user and Password And is ready
+
 <b>Time calculator:</b> https://crontab.guru/
